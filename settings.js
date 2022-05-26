@@ -11,7 +11,7 @@ global.APIKeys = {
 }
 
 //===> ATUR BIAR KALIAN SENENG
-global.autoReadGc = true //Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
+global.autoReadGc = false //Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
 global.autoReadAll = true //Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
 global.anticall = true //Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
 global.available = false //Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
@@ -22,7 +22,7 @@ global.limitCount = 70 //70 Dah Pas Banh
 global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
-global.namaowner = 'RielXd🌱' //Ganti Jadi Namamu
+global.namaowner = 'RielXd👺' //Ganti Jadi Namamu
 global.owner = ['6282146218274','6282146218274'] //Kalo Mau Lebih Tambahin Aja
 global.nomerowner = '6282146218274' //Owner Utama Istilahnya
 global.namabot = 'ᴹᴿ᭄Rielbotz-Mdོ×፝֟͜×' //Ganti Jadi Nama Botmu
