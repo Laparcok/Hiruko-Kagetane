@@ -12,7 +12,7 @@ global.APIKeys = {
 
 //===> ATUR BIAR KALIAN SENENG
 global.autoReadGc = true //Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
-global.autoReadAll = false //Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
+global.autoReadAll = true //Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
 global.anticall = true //Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
 global.available = false //Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
 global.autoTyping = false //Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
