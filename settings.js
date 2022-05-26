@@ -22,18 +22,18 @@ global.limitCount = 70 //70 Dah Pas Banh
 global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
-global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
-global.namabot = 'Hiruko Kagetane' //Ganti Jadi Nama Botmu
-global.packname = 'Hiruko Kagetane' //Sticker Weem
-global.author = 'By Ryuuka Team' //Sticker Weem
-global.webme = 'https://api-ryubotz.herokuapp.com' //Ganti Sama Web Mu
-global.linkgroup = 'https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV' //Ganti Sama Link Gc Mu
+global.namaowner = 'RielXd🌱' //Ganti Jadi Namamu
+global.owner = ['6282146218274','6282146218274'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6282146218274' //Owner Utama Istilahnya
+global.namabot = 'ᴹᴿ᭄Rielbotz-Mdོ×፝֟͜×' //Ganti Jadi Nama Botmu
+global.packname = '' //Sticker Weem
+global.author = 'ᴹᴿ᭄Rielgans✓' //Sticker Weem
+global.webme = 'https://tinyurl.com/y5ck3k4u' //Ganti Sama Web Mu
+global.linkgroup = 'https://tinyurl.com/y5ck3k4u' //Ganti Sama Link Gc Mu
 global.sessionName = 'session'
-global.youtube = 'https://youtube.com/c/RyuukaBotz' //Ganti Sama Link Yt Mu
-global.github = 'https://github.com/R-TEAM94' //Ganti Sama Link Github Mu
-global.instagram = 'https://instagram.com/fandyyy._' //Ganti Sama Link Ig mu
+global.youtube = 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg' //Ganti Sama Link Yt Mu
+global.github = 'https://github.com/Rieltod' //Ganti Sama Link Github Mu
+global.instagram = 'https://instagram.com/Rielgans._' //Ganti Sama Link Ig mu
 
 //===> BACKGROUND SETIAP MENU
 global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
